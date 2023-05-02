@@ -1,0 +1,10 @@
+transformers~=4.16.2
+requests~=2.27.1
+numpy~=1.21.2
+nltk~=3.7
+scipy~=1.7.3
+tqdm~=4.63.0
+flask~=2.0.2
+flask_cors~=3.0.10
+scikit-learn~=1.0.2
+tensorboardx~=2.5

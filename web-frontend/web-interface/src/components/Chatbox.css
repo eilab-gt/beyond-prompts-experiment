@@ -1,0 +1,8 @@
+.rcw-message > .rcw-response {
+    background-color: white;
+    color: black;
+}
+
+.rcw-response > .rcw-message-text {
+    max-width: 550px;
+}
