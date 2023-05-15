@@ -2,6 +2,8 @@
 
 This is the repository holding code we used in the experiments for "Beyond Prompts: Exploring the Design Space of Mixed-Initiative Co-creativity Systems".
 
+You can find the paper here: https://arxiv.org/abs/2305.07465
+
 ## Try the exemplar application
 - All the scripts are located `StorytellingDomain/Scripts`.
   - You need to run the scripts from that directory (working directory).
@@ -53,3 +55,16 @@ If you wish to add a certificate so that the sites can operate in HTTPS
 - Pass `-s` to `StartExperiment.py`
 - In `WebFrontendServer.py` set the paths to the certificates
 - Set environments `HTTPS=true;SSL_CRT_FILE=<your fullchain.pem>;SSL_KEY_FILE=<your privkey.pem>` for the node frontend.
+
+## If you found this helpful
+Please consider citing our work using the following:
+~~~
+@misc{lin2023prompts,
+      title={Beyond Prompts: Exploring the Design Space of Mixed-Initiative Co-Creativity Systems}, 
+      author={Zhiyu Lin and Upol Ehsan and Rohan Agarwal and Samihan Dani and Vidushi Vashishth and Mark Riedl},
+      year={2023},
+      eprint={2305.07465},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+~~~
