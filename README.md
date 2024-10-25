@@ -2,6 +2,8 @@
 
 This is the repository holding code we used in the experiments for "Beyond Prompts: Exploring the Design Space of Mixed-Initiative Co-creativity Systems".
 
+**Accepted by ICCC 2023!**
+
 You can find the paper here: https://arxiv.org/abs/2305.07465
 
 ## Try the exemplar application
